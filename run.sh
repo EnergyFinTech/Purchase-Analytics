@@ -1,4 +1,4 @@
 pwd
-ls -l
+ls -a
 cd src
 python3 rptDeptOrder.py
