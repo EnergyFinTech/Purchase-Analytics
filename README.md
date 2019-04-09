@@ -144,6 +144,8 @@ Unit tests for specific instances of product_id were used for validation.
  
 ### Instructions
 I developed and tested my code on a Windows Environment. I used Python version 3.6 64-bit version. 
-I used run.bat and run_tests.bat files to run my tests. The respective input and outputs are also uploaded in the repository.
+The python code assumes that the the src folder is the current working directory for the python program code (rptDeptOrder.py).
 
-I believe the code would work fine on a Unix/Linux environment too. I have named the command as python3 in the respective run.sh scripts.
+I used run.bat and run_tests.bat files, besides the Python version 3.6 64-bit edition IDLE to successfully run my code for the various test scenarios (test_1, test_prior and test_train). The respective input and outputs are also uploaded in the repository.
+
+I believe this code would work fine on a Unix/Linux environment too. I have named the command as python3 in the respective run.sh scripts.
